@@ -1,2 +1,2 @@
-# sociology
-sociology
+# Sociology
+Sociology
